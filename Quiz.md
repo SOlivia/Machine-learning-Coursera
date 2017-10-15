@@ -1,2 +1,2 @@
 # Machine-learning-Coursera
-All quiz saved in "Issues" category
+All quizzes are saved in "Issues" category.
